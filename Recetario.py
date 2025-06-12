@@ -1,6 +1,3 @@
-"""
-Modulso requeridos para manejar las librearias
-"""
 from pathlib import Path
 import os
 
